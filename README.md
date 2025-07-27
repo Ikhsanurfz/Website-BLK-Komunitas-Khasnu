@@ -1,4 +1,4 @@
-# Sistem Informasi Balai Latihan Kerja Komunitas Khasanah Nusantara
+# Sistem Informasi BLK Komunitas Khasanah Nusantara
 
 Website ini merupakan hasil dari proyek skripsi yang bertujuan untuk mengembangkan sistem informasi pelatihan kerja berbasis web di BLK Komunitas Khasanah Nusantara.  
 Sistem ini membantu admin dalam mengelola data peserta, absensi, portofolio karya, serta menyampaikan informasi pelatihan kepada masyarakat secara efisien.
